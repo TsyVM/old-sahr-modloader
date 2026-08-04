@@ -5,7 +5,7 @@
 This is our **old** SHAR ModLoader for *The Simpsons: Hit & Run*. It still works, but it is no longer under active development in this form.
 
 A newer, rebuilt version of the mod loader is in progress here:
-**https://www.github.com/tsyvm/vanhooks**
+**https://www.github.com/tsyvm/sahr-modloader**
 
 If you're looking for ongoing updates and new features, check that repo. This repo will remain available as a stable, working fallback.
 
